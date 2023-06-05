@@ -1,0 +1,16 @@
+body{
+	font-size: 16px;
+	font-family: vandana sans-serif;
+	color: #333;
+}
+#section1{
+	background-color: rgba(170, 200, 40, 0.6);
+	padding: 10px;
+	margin: 20px 0px;
+}
+
+#section2{
+	background-color: rgba(40, 170, 200, 0.6);
+	padding: 10px;
+	margin: 20px 0px;
+}
